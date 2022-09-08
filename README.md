@@ -5,7 +5,7 @@
 - 💬 Vamos falar sobre futuros projetos, ideais são sempre bem vindas...
 - ⚡ Se liga 👀: "Nunca vou mexer com programação", 2 anos depois passo 3 a 8 horas por dia e ainda acho pouco 😂
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Emanuel&count_private=true&show_icons=true&theme=gruvbox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Emanuel&langs_count=16&theme=gruvbox&layout=compact">
 </div>
