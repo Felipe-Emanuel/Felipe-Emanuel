@@ -30,6 +30,6 @@
     ✌
  </div>
   <a href="https://www.linkedin.com/in/felipe-sullivan-70383624b/" target="_blank">
-    <img height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
+    <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 </div>
