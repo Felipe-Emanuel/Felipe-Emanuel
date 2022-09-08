@@ -39,6 +39,6 @@
   <div align="center">
     Um extra para ficarmos sintonizados 👀<br>
  </div>
- <a href="https:https://open.spotify.com/playlist/5em1d9isMr8xGONJJGjfRj?si=7a0d2b3a9e8e401b" target="_blank">
+ <a href="l1nq.com/y5vGw" target="_blank">
   <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"/>
 </a>
