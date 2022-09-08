@@ -33,12 +33,3 @@
     <img height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
   </a>
 </div>
-
-##
-<div align="center">
-  <div align="center">
-    Um extra para ficarmos sintonizados 👀<br>
- </div>
- <a href="l1nq.com/y5vGw" target="_blank">
-  <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"/>
-</a>
