@@ -29,7 +29,7 @@
   <div align="center">
     ✌
  </div>
-  <a href="www.linkedin.com/in/felipe-emanuel-/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-emanuel-/" target="_blank">
     <img height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 </div>
