@@ -9,15 +9,15 @@
    <img align="center" alt="TypeScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Tailwindcss" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <a href='https://tock-next-level-1.vercel.app/'>Guitar Next Level</a> (em produção)</br>
+  <a href='https://tock-next-level-1.vercel.app/'> Guitar Next Level</a> (em produção)</br>
   
   <img align="center" alt="JavaScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Tailwindcss" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <a href='https://imersao-alura-tube.vercel.app/'>Imersão Alura </a></br>
+  <a href='https://imersao-alura-tube.vercel.app/'> Imersão Alura </a></br>
 
   <img align="center" alt="JavaScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <a href='https://tock-next-level-1.vercel.app//'>Weather</a>
+  <a href='https://weathernewsibge.netlify.app/'> Weather</a>
   
 </div>
 
