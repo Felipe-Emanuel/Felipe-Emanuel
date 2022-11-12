@@ -2,7 +2,10 @@
 
 🧀 Minas Gerais - Brasil 🌎
 
-- 🌱 Atualmente estudando ReactJS!
+- 🌱 Atualmente estudando ReactJS...
+- 💭 Estimado a estudar cada vez mais NodeJS...
+- 💻 Desenvolvedor Frontend ...
+- 👣 Caminhando para o sonhado Desenvolvedor FullStack!
 - --
 <h3>Alguns projetos hospedados:</h3>
 <div>
