@@ -12,7 +12,7 @@
   <img align="center" alt="TypeScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Tailwindcss" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <a href='https://vercel.com/felipe-emanuel/casa-verde-vwng'> Casa Verde</a> (API da Newslatter não está hospedada/qual o problema da Vercel com imagens)</br>
+  <a href='https://vercel.com/felipe-emanuel/casa-verde-vwng'> Casa Verde</a> (API da Newslatter não está hospedada/corrigindo problema da Vercel com imagens)</br>
    
   <img align="center" alt="TypeScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
