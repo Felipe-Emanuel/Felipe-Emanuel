@@ -25,7 +25,7 @@
   <a href='https://imersao-alura-tube.vercel.app/'> Imersão Alura </a></br>
 
   <img align="center" alt="JavaScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <a href='https://weathernewsibge.netlify.app/'> Weather</a> ()
+  <a href='https://weathernewsibge.netlify.app/'> Weather</a>
   
 </div>
 
