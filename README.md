@@ -2,7 +2,7 @@
 
 🧀 Minas Gerais - Brasil 🌎
 
-- 🌱 Atualmente estudando ReactJS...
+- 🌱 Atualmente estudando NextJS e MongoDb...
 - 💭 Estimado a estudar cada vez mais NodeJS...
 - 💻 Desenvolvedor Frontend ...
 - 👣 Caminhando para o sonhado Desenvolvedor FullStack!
@@ -31,12 +31,15 @@
   <img align="center" alt="Felipe-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Felipe-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Felipe-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="Felipe-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  
 </div>
 
 ####
 <div style="display: inline_block"><br>
   <p><i>Próximos passos planejados</i><p>
   <img align="center" alt="Felipe-Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img align="center" alt="Felipe-Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
  ##
