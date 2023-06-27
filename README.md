@@ -10,7 +10,6 @@
 #### Stacks favoritas:
 <div>
   <img align="center" alt="TypeScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="JavaScript" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="React" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="Tailwindcss" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
