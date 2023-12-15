@@ -16,7 +16,7 @@
 
 ## Featured Projects
 - 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
-- 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client/tre/homolog).
+- 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
 
 ## Academic Pursuits
 - 🎓 Computer Science student at University FMU.
