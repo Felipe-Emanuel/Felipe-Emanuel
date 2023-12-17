@@ -15,7 +15,7 @@
 - 🇺🇸 - English
 
 ## Featured Projects
-- 🌐 [GerencyI](https://gerencyi-homolog.vercel.app/).
+- 🌐 [GerencyI](https://www.gerencyi.com/).
 - 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
 
 ## Academic Pursuits
