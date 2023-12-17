@@ -18,9 +18,6 @@
 - 🌐 [GerencyI](https://www.gerencyi.com/).
 - 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
 
-## Academic Pursuits
-- 🎓 Computer Science student at University FMU.
-
 ## Social Media and Contact
 - 📫 Email: FelipeSullivan50@gmail.com
 - 📱 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/felipe-emanuel-/)
