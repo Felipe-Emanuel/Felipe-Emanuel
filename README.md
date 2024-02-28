@@ -3,8 +3,8 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-- 🔭 FrontEnd Developer...
 - 💻 Software Engineer...
+- 🔭 Front-End Developer...
 
 ## Skills
 - ✨ Frontend Technologies: Ts, ReactJs, React-Native, Tailwind, Styled-Components, NextJs.
@@ -17,6 +17,9 @@
 ## Featured Projects
 - 🌐 [GerencyI](https://www.gerencyi.com/).
 - 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
+
+## Academic Pursuits
+🎓 Software Engineer student at University UNINTER.
 
 ## Social Media and Contact
 - 📫 Email: FelipeSullivan50@gmail.com
