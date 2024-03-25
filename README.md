@@ -8,6 +8,7 @@
 
 ## Skills
 - ✨ Frontend Technologies: Ts, ReactJs, React-Native, Tailwind, Styled-Components, NextJs.
+- 🤖 Backend Technologies: Ts, NodeJS, Fastify.
 - 🔧 Tools: Git, VSCode, Azure DevOps.
 
 ## Lenguages
@@ -17,6 +18,7 @@
 ## Featured Projects
 - 🌐 [GerencyI](https://www.gerencyi.com/).
 - 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
+- 🌐 [Repository to Full Stack Memorize](https://github.com/Felipe-Emanuel/memorize).
 
 ## Academic Pursuits
 🎓 Software Engineer student at University UNINTER.
