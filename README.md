@@ -16,6 +16,7 @@
 - 🇺🇸 - English
 
 ## Featured Projects
+- 🌐 [Memorize](https://github.com/Felipe-Emanuel/memorize?tab=readme-ov-file#memorize).
 - 🌐 [GerencyI](https://www.gerencyi.com/).
 - 🌐 [Repository from Client-Side GerencyI](https://github.com/gerencyme/gerencyI-client).
 - 🌐 [Repository to Full Stack Memorize](https://github.com/Felipe-Emanuel/memorize).
